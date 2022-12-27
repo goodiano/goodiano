@@ -4,7 +4,7 @@ My name is Hossein Goodarzi
 .Net Developer
 -----------------------------
 
-*   🚀  I'm currently working at [karan.ir](#)
+*   🚀  I'm currently working at [<a href="https://karan.ir/" target="_blank" rel="noreferrer">karan.ir</a>](#)
                   
 ### Skills
 <p align="left">
